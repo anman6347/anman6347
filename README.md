@@ -1,4 +1,12 @@
-### Hi there 👋
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height=200px src="https://github-readme-stats.vercel.app/api?username=anman6347&theme=radical&title_color=ff1493&show_icons=true&text_color=00ffff&bg_color=45,141330,501321&cache_seconds=400&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=anman6347&layout=compact&theme=radical&title_color=ff1493&text_color=00ffff&bg_color=45,501321,141330&hide_border=true" />
+</a>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anman6347&theme=onedark&column=8&margin-w=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **anman6347/anman6347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
