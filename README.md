@@ -6,6 +6,15 @@
 </a>
 
 
+
+Yusuke Miyashita  
+- Master's Student  
+- [Watanabe Lab](https://www.psg.c.titech.ac.jp/)  
+- Department of Computer Science  
+- School of Computing  
+- Institute of Science Tokyo  
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=anman6347&theme=onedark&column=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
