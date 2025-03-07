@@ -8,12 +8,10 @@
 
 
 Yusuke Miyashita  
-- Master's Student  
-- [Watanabe Lab](https://www.psg.c.titech.ac.jp/)  
-- Department of Computer Science  
-- School of Computing  
-- Institute of Science Tokyo  
-
+- [東京科学大学　情報理工学院](https://www.isct.ac.jp/ja/001/about/organizations/school-of-computing)
+- 修士 1年  
+- [渡部研](https://www.psg.c.titech.ac.jp/)  
+- 今まで作成してきたアプリのうち、ライセンス的に公開できるものを載せています
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anman6347&theme=onedark&column=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
