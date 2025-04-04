@@ -9,7 +9,7 @@
 
 Yusuke Miyashita  
 - [東京科学大学　情報理工学院](https://www.isct.ac.jp/ja/001/about/organizations/school-of-computing)
-- 修士 1年  
+- 修士 2年  
 - [渡部研](https://www.psg.c.titech.ac.jp/)  
 - 今まで作成してきたアプリのうち、ライセンス的に公開できるものを載せています
 
